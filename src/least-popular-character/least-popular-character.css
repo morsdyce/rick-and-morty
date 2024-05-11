@@ -1,0 +1,29 @@
+.news-title {
+    color: #fff;
+    background-color: #bf1010;
+    border-top: 6px solid #e80909;
+    font-size: 26px;
+    flex-grow: 1;
+    margin: 0;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.profile {
+    margin: 0;
+    width: 354px;
+}
+
+.content {
+    display: flex;
+}
+
+.least-popular-character-table {
+    flex: 1;
+}
+
+.least-popular-character-table td {
+    background-color: #fff;
+    padding: 0 5px;
+}
